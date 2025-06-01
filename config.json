@@ -1,0 +1,6 @@
+{
+    "DateFormat": "2006-01-02",
+    "BaseRoute": "/glofox",
+    "Port": "7000"
+  }
+  
