@@ -57,7 +57,7 @@ The application reads its runtime configuration from a `config.json` file locate
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/ShashankSharma0942/Glofox.git
 2. Navigate the Project Repositry
    ```bash
     cd glofox
